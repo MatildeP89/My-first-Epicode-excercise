@@ -1,0 +1,75 @@
+header {text-align: center;
+    
+}
+
+header img { height: 30px;
+text-align: center;
+padding-left: 50px;
+}
+
+header nav {color: rgba(3, 51, 3, 0.849);
+font-weight: bolder;
+background-color:  hwb(56 84% 3%);
+border-top: solid 1px rgb(252, 205, 144);
+padding: 10px;
+text-align: center;
+}
+
+body {
+    background-color: rgb(253, 253, 248);
+    margin: 0;
+    font-family: "Frank Ruhl Libre", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+      }
+
+h1 {text-align: center;}
+
+#Featured {color: rgb(190, 113, 12);
+    font-weight: bold;
+border-left: solid 1px orange;
+padding-left: 10px;
+}
+
+p {
+width: 200px;
+
+}
+
+section {
+    text-align: left;
+    width: 600px;
+    padding: 10px 500px;    
+    }
+
+section img {height: 300px;
+width: 400px;
+border-radius: 5px;
+padding-left: 80px;}
+
+section span {
+   color: grey; 
+   font-weight: bold;
+   padding-left: 200px;
+}
+
+section h3 {
+    text-align: left;
+    padding: 15px;
+    border-bottom: solid 1px rgb(209, 228, 235);
+}
+
+
+h4 {text-align: left;
+}
+
+footer {padding: 0 500px;
+    text-wrap: nowrap;
+
+}
+
+ol p {width: 600px;
+}
+
+
